@@ -145,7 +145,8 @@ function ContactUs() {
                 Come say hello at our office.
               </p>
               <p className="mt-2 text-blue-500 dark:text-blue-400">
-                89 Woodlands Rd, Glasgow G3 6HB, United Kingdom <br />
+                219 Henderson Road, Henderson Industrial Park, Singapore 159556
+                <br />
                 1434 Linn St. Cincinnati, OH 45214 USA
               </p>
             </div>
