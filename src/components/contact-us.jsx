@@ -145,7 +145,7 @@ function ContactUs() {
                 Come say hello at our office.
               </p>
               <p className="mt-2 text-blue-500 dark:text-blue-400">
-                219 Henderson Road, Henderson Industrial Park, Singapore 159556
+                76 Waymouth St, Adelaide SA 5000, Australia
                 <br />
                 1434 Linn St. Cincinnati, OH 45214 USA
               </p>
